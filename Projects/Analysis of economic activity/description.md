@@ -5,4 +5,4 @@ Evolution of economic activity measured in tons
 ![](<2 Volume in tons.jpg>)
 
 Tickets per month
-!(<3 Tickets per month.jpg>)
+![](<3 Tickets per month.jpg>)
