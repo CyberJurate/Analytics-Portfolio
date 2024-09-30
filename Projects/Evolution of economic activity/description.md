@@ -1,5 +1,5 @@
 Evolution of economic activity measured by ticket volume\
-![1 Ticket volume](<1 Ticket volume.jpg>)
+![](<1 Ticket volume.jpg>)
 
 Evolution of economic activity measured in tons\
 ![](<2 Volume in tons.jpg>)
@@ -19,5 +19,6 @@ Change in the number of active clients per year\
 Evolution of activity of 30 biggest clients\
 ![](<7 activity of 30 biggest clients.jpg>)
 
-Change in ticket volume compared to the change in interest rates\
+Evolution of ticket volume compared to the evoution of interest rates\
 ![](<8 Ticket volume v. interest rate.jpg>)
+
