@@ -1,6 +1,6 @@
 # **Data Analytics Projects** 
 
-[AFP Data Viz Challenge](<Projects\AFP Data Viz Challenge/description.md>)
+[AFP Data Viz Challenge](<Projects/AFP Data Viz Challenge/description.md>)
 
 [Client risk 360 overview](<Projects/Client risk 360 overview/description.md>)
 
