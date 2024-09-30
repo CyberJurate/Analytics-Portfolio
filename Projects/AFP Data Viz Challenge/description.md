@@ -1,5 +1,5 @@
-# **Back to [Data Analytics Projects](<../../README.md>)**
-
+Back to [Data Analytics Projects](<../../README.md>)
+# **AFP Data Viz Challenge**
 
 
 Performance by product line\
@@ -10,3 +10,5 @@ Evolution of outdoor protection sales\
 
 Recommendation\
 ![](<Recommendation.jpg>)
+
+Back to [Data Analytics Projects](<../../README.md>)
