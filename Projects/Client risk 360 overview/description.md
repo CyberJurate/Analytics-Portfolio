@@ -10,9 +10,12 @@ Back to [Data Analytics Projects](<../../README.md>)
 
 ## Background
 
-This company is in the business of billing and collections on behalf of a network of stone quarries. Clients load up on the materials at the distribution sites and pay monthly upon receipt of an invoice. The company wants to follow and manage credit risk at the client level. 
+This company is in the business of billing and collections on behalf of a network of stone quarries. Clients load up on the materials at the distribution sites and pay monthly upon receipt of an invoice. The company wants to follow and manage credit risk at the client level.
 
-Client Risk Analysis: 360° Overview Dashboard\
+Constraints: the company does not have access to its clients' credit ratings or financial statements 
+
+
+**Client Risk Analysis: 360° Overview Dashboard**\
 ![](<Client%20risk%20360%20overview.jpg>)
 
 ## Dashboard Elements
