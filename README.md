@@ -7,12 +7,12 @@
   style="border: 2px solid #000;" />
 </a>
 
-## [Company's Economic Activity by Sector](<Projects/Economic activity by sector/description.md>)
-
 ## [Evolution of Economic Actvity](<Projects/Evolution of economic activity/description.md>)
 
-## [Invoicing Analysis](<Projects/Invoicing analysis/description.md>)
-
 ## [Kilometers Driven](Projects/Kilometers/description.md)
+
+## [Company's Economic Activity by Sector](<Projects/Economic activity by sector/description.md>)
+
+## [Invoicing Analysis](<Projects/Invoicing analysis/description.md>)
 
 ## [AFP Data Viz Challenge](<Projects/AFP Data Viz Challenge/description.md>)
