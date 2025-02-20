@@ -10,7 +10,7 @@
 ## [Diagnosing Sales Trends: Driving Factors & Customer Clustering](<Projects/Diagnosing Sales Trends/description.md>)
 
 <a href="Projects/Diagnosing Sales Trends/description.md">
-  <img src="Projects/Diagnosing Sales Trends/Diagnostic - Thumb.PNG" alt="Diagnosing Sales Trends" title="Diagnosing Sales Trends" 
+  <img src="Projects/Diagnosing Sales Trends/Diagnostic - Thumb.png" alt="Diagnosing Sales Trends" title="Diagnosing Sales Trends" 
   style="border: 2px solid #000;" />
 </a>
 
