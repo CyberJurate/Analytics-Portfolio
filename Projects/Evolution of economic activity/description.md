@@ -25,9 +25,11 @@ Initial decriptive company sales analysis revealed that while sales numbers appe
 The graph analyzes only three quarters of data in a year to ensure comparability with the year 2023, for which fourth-quarter data is not yet available.
 
 On the sales volume trend graph, three key features are observed: 
+
     - a downward trend since 2016, 
     - exceptionally low sales volume in 2020, and 
     - even lower in 2023. 
+
 It is already known that the reason behind low activity in 2020 was the COVID-19 pandemic. The remaining two require further explanation.
 
 Let's confirm that sales volumes have indeed been decreasing by using a different measure: tons instead of tickets. 
@@ -48,9 +50,11 @@ On the contrary, the number of active clients per year has remained quite stable
 ![](<7 Activity of 30 biggest clients.jpg>)
 
 The graph depicting the 30 biggest clients by purchase volume since 2015 assigns one client per color stripe. The graph provides 3 clues:<br>
+
     1) The company’s client base remained stable, with minimal turnover; however, existing clients experienced a reduction in their operations overall.<br>
     2) The shape of the graph indicates that the trends observed among its 30 largest clients closely mirror the company's overall trends.<br>
     3) The underlying cause of the decline appears to be widespread, impacting all clients across the board.<br>
+    
 These clues point towards systemic causes: market forces or macroeconomic events.
 
 The company's director was particularly interested in what happened in 2023. Let's identify when exactly in 2023 things started to go wrong by comparing monthly volume data in 2023 with other years.
