@@ -5,7 +5,7 @@ Back to [Data Analytics Projects](<../../README.md>)
 **Goal:** Yearly review of credit risk per client.<br>
 **Function:** 360° Overview Dashboard provides all information relevant to the client's credit risk on one page, facilitating faster decision making.<br>
 **Tools used:** MS Power BI<br>
-**Features:** Running Total in DAX to calculate monthly outstanding balances, Ranked Slicer, Conditional Formatting  
+**Features:** Running Total in DAX to calculate monthly outstanding balances, ranked slicer, conditional formatting  
 
 
 

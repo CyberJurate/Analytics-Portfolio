@@ -7,11 +7,9 @@
   style="border: 2px solid #000;" />
 </a>
 
-## [Evolution of Economic Actvity](<Projects/Evolution of economic activity/description.md>)
+## [Diagnosing Sales Trends: Driving Factors & Customer Clustering](<Projects/Evolution of economic activity/description.md>)
 
 ## [Kilometers Driven](Projects/Kilometers/description.md)
-
-## [Company's Economic Activity by Sector](<Projects/Economic activity by sector/description.md>)
 
 ## [Invoicing Analysis](<Projects/Invoicing analysis/description.md>)
 
