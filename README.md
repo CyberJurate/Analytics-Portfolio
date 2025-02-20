@@ -7,7 +7,12 @@
   style="border: 2px solid #000;" />
 </a>
 
-## [Diagnosing Sales Trends: Driving Factors & Customer Clustering](<Projects/Evolution of economic activity/description.md>)
+## [Diagnosing Sales Trends: Driving Factors & Customer Clustering](<Projects/Diagnosing Sales Trends/description.md>)
+
+<a href="Projects/Client risk 360 overview/description.md">
+  <img src="Projects/Diagnosing Sales Trends/Diagnostic - Thumb.PNG" alt="Diagnosing Sales Trends" title="Diagnosing Sales Trends" 
+  style="border: 2px solid #000;" />
+</a>
 
 ## [Kilometers Driven](Projects/Kilometers/description.md)
 
