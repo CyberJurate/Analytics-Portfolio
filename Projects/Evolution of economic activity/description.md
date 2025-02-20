@@ -53,7 +53,7 @@ The graph depicting the 30 biggest clients by purchase volume since 2015 assigns
 
     1) The company’s client base remained stable, with minimal turnover; however, existing clients experienced a reduction in their operations overall.<br>
     2) The shape of the graph indicates that the trends observed among its 30 largest clients closely mirror the company's overall trends.<br>
-    3) The underlying cause of the decline appears to be widespread, impacting all clients across the board.<br>
+    3) The underlying cause of the decline appears to be widespread, impacting all clients across the board.
     
 These clues point towards systemic causes: market forces or macroeconomic events.
 
