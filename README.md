@@ -14,8 +14,8 @@
   style="border: 2px solid #000;" />
 </a>
 
-## [Kilometers Driven](Projects/Kilometers/description.md)
+## [Distance Analysis](<Projects/Distance Analysis/description.md>)
 
-## [Invoicing Analysis](<Projects/Invoicing analysis/description.md>)
+## [Invoicing Analysis](<Projects/Invoicing Analysis/description.md>)
 
 ## [AFP Data Viz Challenge](<Projects/AFP Data Viz Challenge/description.md>)
